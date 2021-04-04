@@ -1,0 +1,202 @@
+aide -C
+Start timestamp: 2021-04-03 02:44:21 +0300 (AIDE 0.16)
+AIDE found differences between database and filesystem!!
+
+Summary:
+  Total number of entries:      148303
+  Added entries:                87
+  Removed entries:              0
+  Changed entries:              12
+
+---------------------------------------------------
+Added entries:
+---------------------------------------------------
+
+f++++++++++++++++: /etc/aide-check.conf
+f++++++++++++++++: /opt/redwood/etc/blacklist/080-filter-blacklist_urls-db.list
+f++++++++++++++++: /opt/redwood/etc/blacklist/080-filter-blacklist_urls-db.plain-urls
+d++++++++++++++++: /opt/redwood/etc/categories-enabled/blacklist
+f++++++++++++++++: /opt/redwood/etc/categories-enabled/blacklist/category.conf
+f++++++++++++++++: /opt/redwood/etc/categories-enabled/blacklist/plain-urls-blacklist.list
+f++++++++++++++++: /opt/redwood/etc/categories-enabled/blacklist/urls.list
+d++++++++++++++++: /opt/src/squid-external-matchers
+d++++++++++++++++: /opt/src/squid-external-matchers/.git
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/COMMIT_EDITMSG
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/HEAD
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/branches
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/config
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/description
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/hooks
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/hooks/applypatch-msg.sample
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/hooks/commit-msg.sample
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/hooks/fsmonitor-watchman.sample
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/hooks/post-update.sample
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/hooks/pre-applypatch.sample
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/hooks/pre-commit.sample
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/hooks/pre-merge-commit.sample
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/hooks/pre-push.sample
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/hooks/pre-rebase.sample
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/hooks/pre-receive.sample
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/hooks/prepare-commit-msg.sample
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/hooks/update.sample
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/index
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/info
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/info/exclude
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/logs
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/logs/HEAD
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/logs/refs
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/logs/refs/heads
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/logs/refs/heads/master
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/logs/refs/remotes
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/logs/refs/remotes/origin
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/logs/refs/remotes/origin/master
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/objects
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/00
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/00/3e895816a408d49a25ca6b1c6d3c5118fa09dd
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/0c
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/0c/320d4c58dfef4c9914df29db202a24076e9875
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/20
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/20/dbab2141aa357a02736b04254c080a51c3a2be
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/24
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/24/4f020194f1292293704db5a23c94a09e3ecb8f
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/57
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/57/5fe6608fa077008a7324e89694a344b6177153
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/64
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/64/7acf4247d4d937d574230e58b93631d80560ff
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/92
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/92/dc28cc1e6dd23a31779c80afa8af8a1d1cc7fd
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/a8
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/a8/a3d0555d46c626cefababa992db629dc5e64e2
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/ba
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/ba/308633eb471547e931858b9ab50cbff8308038
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/c7
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/c7/6301260c8170dc28510920a4d1e8f19dd4377f
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/d0
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/d0/4aa84fdfad70c479c46f31f911b4d455f4e15a
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/ed
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/ed/aad04cc82f35d7e7e49506d35837d5b622fcf4
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/info
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/objects/pack
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/refs
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/refs/heads
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/refs/heads/master
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/refs/remotes
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/refs/remotes/origin
+f++++++++++++++++: /opt/src/squid-external-matchers/.git/refs/remotes/origin/master
+d++++++++++++++++: /opt/src/squid-external-matchers/.git/refs/tags
+f++++++++++++++++: /opt/src/squid-external-matchers/LICENSE
+f++++++++++++++++: /opt/src/squid-external-matchers/README.md
+f++++++++++++++++: /opt/src/squid-external-matchers/check-dom.sh
+f++++++++++++++++: /opt/src/squid-external-matchers/doms.list
+f++++++++++++++++: /opt/src/squid-external-matchers/dstdomain-matcher-threaded.rb
+f++++++++++++++++: /opt/src/squid-external-matchers/regex-matcher-server.rb
+f++++++++++++++++: /opt/src/squid-external-matchers/sni-matcher.rb
+f++++++++++++++++: /opt/src/squid-external-matchers/youtube-id-matcher.rb
+d++++++++++++++++: /root/.cache/youtube-dl
+d++++++++++++++++: /root/.cache/youtube-dl/youtube-sigfuncs
+f++++++++++++++++: /root/.cache/youtube-dl/youtube-sigfuncs/js_3a4ee0a9_106.json
+f++++++++++++++++: /root/.cache/youtube-dl/youtube-sigfuncs/js_3a4ee0a9_110.json
+f++++++++++++++++: /usr/local/bin/extract-yt-channel-id.rb
+l++++++++++++++++: /usr/local/bin/python
+f++++++++++++++++: /usr/local/bin/youtube-dl
+
+---------------------------------------------------
+Changed entries:
+---------------------------------------------------
+
+f           C    : /opt/redwood/bin/yandex_http_rbl_check.rb
+f           C    : /opt/redwood/etc/Makefile
+f           C    : /opt/redwood/etc/acls.conf
+f           C    : /opt/redwood/etc/categories-enabled/sslbypass/no-ssl-bump-server-name.list
+f           C    : /opt/redwood/etc/no-ssl-bump/040-reddit.server-name
+f           C    : /opt/redwood/etc/no-ssl-bump/080-filter-db.server-name
+f           C    : /opt/redwood/etc/no-ssl-bump-server-name-redwood.list
+f           C    : /opt/redwood/etc/no-ssl-bump-server-name.list
+f           C    : /opt/redwood/etc/no-ssl-bump-server-name.list.in
+f < p..    . A.  : /var/log/btmp
+f < ...    . ..  : /var/log/sssd/sssd_kcm.log
+f           C    : /var/spool/anacron/cron.daily
+
+---------------------------------------------------
+Detailed information about changes:
+---------------------------------------------------
+
+File: /opt/redwood/bin/yandex_http_rbl_check.rb
+  SHA512   : dUO+tVW/f4lV05WblYbE1DGQWfxaeJd6 | QJ1JpNWJKQxLSSf3evf/7iJY+qZqPZuB
+             XMZ/ByC0GEdvCO7QUCNg9EL5so3MA5dV | nd8hGyPMuUp2s+3EVc9Sorduf6p7RGEv
+             n/sKuqDKXi1pm+fksbSkiw==         | ApGZW0EUc0UPD4wJdkneWQ==
+
+File: /opt/redwood/etc/Makefile
+  SHA512   : QXE3P+H0YcaXLzfb3v/sVCisAyfNwD6f | fpYoCxU7BbMZon7nd0D9UFV8uvGUntl4
+             N9M5Aiqv9KTMKff6oJTQNzFa1s84sT6A | RyzGlmszu95wZT/FgVtSLIJOJmwQlm5Y
+             eSnzOCePWrO1etuUUfXsGg==         | jhbus7eqieOA8m4qRmfLNA==
+
+File: /opt/redwood/etc/acls.conf
+  SHA512   : W6eNi6+7mF2pdrVAsk1lIUb3z3UgSnYp | cD+qsiBQaKZXys7KJp+kVN+FILktHrGp
+             sDCz1WTTYTuvJgIz4VpfMSXj1KdK4rVr | ZVOG54kPfnHw6lXO3kg4r2UEE2+P7Hd1
+             xPYvWkXV4iXmiM7frTFt9g==         | 8HTqpDJ9U2DNRs4TnTunjQ==
+
+File: /opt/redwood/etc/categories-enabled/sslbypass/no-ssl-bump-server-name.list
+  SHA512   : 1fny7GVAjTg/BUUgpjBdHjpUukTjT1Kx | 7wdpDYSBPeOZa2hppyvE0S953iMo1qGM
+             EsVqvIGybiGcaivVDpWVGkY+Oz37wwxL | ex4K4tznnxB+JM/Q8TazMRGxBzhTlFb+
+             MOodo8tasJdVyPurW0H7mA==         | M5M3cQgDTlA9jyJWyVGWgQ==
+
+File: /opt/redwood/etc/no-ssl-bump/040-reddit.server-name
+  SHA512   : yq+CvkMSyRIkoZ6Dn5KnxVcAxfEvy/jy | YwqUaAVaJQDZyrzhMBP+/PuD2SxHCJBm
+             wOBH1j02GU6wM2g12pWifDeIG1k68Z6U | 4HUnutAGfT/SFuIgvo4UfTA42+uKoRoK
+             pmB13FVAOOobdtreudGpjw==         | 0DjsOa3vZ/5OjTswc/mNWg==
+
+File: /opt/redwood/etc/no-ssl-bump/080-filter-db.server-name
+  SHA512   : 2123dB2J8Ie1CW0A3fXVJHY+qO74YWaH | GRlcmSOrIxRH6Ar40tu1dmiCVF6DUrmG
+             SdupaGiKIfAqIup/8ukpGx+bmkENjvSm | bjSHmZOWvcqBz9+DcRXasxyIV5BSrdnY
+             ANvJJ+DP5ti2i4VHZvdhQw==         | wxwuIER3qzH9W09EdvRhPg==
+
+File: /opt/redwood/etc/no-ssl-bump-server-name-redwood.list
+  SHA512   : vGExDBp2jVNPKRC2EhxuBnB4F413na60 | 0RerTIseL5/rHK6vt6WdSv44vDJPskcF
+             PIDbu9EFq+GwBJjvS+6EtC8/vyk5B3/I | 0zJx3tRILGCSu6CPF1NUVS48ZSGExGPY
+             L94yrjNa62dS8WR9dCoYFA==         | aorz1zQi7NLbaIE/FtJSIg==
+
+File: /opt/redwood/etc/no-ssl-bump-server-name.list
+  SHA512   : 3T/ABmMNJh2m2DZwUNRZWfVf20zHyqLT | wETF3KvjPjlLiQk/uynleBs5sO/1bmvJ
+             zqGD6B7wryrp7qGGUmHKHrO94LwHz2Uy | QRPmhGVPIZ07JUF4xJLj8SCyJMSYCckh
+             sxIKv1zC+c6hRvreIw+3Vg==         | cPK4nLS9Gl0lKkJjo1iS4Q==
+
+File: /opt/redwood/etc/no-ssl-bump-server-name.list.in
+  SHA512   : VkH68h+d5ZonAsDE7UY7KkWgEA0KIaTC | sMcE17p2BJgk8145oUdhguOSO0CjOKeF
+             I1UwvfzL4fV6Zxo09/6CCYX07Lj3ek/V | gdmPvR6QJ8iiqTtLoMTBcXNRsJX2/6Yx
+             FIXgox1OkUZ/o6QO2BKtDA==         | USXC1C2fYL/QvcNuj4GgBw==
+
+File: /var/log/btmp
+  Size     : 384                              | 0
+  Perm     : -rw-rw----                       | -rw-------
+  ACL      : A: user::rw-                     | A: user::rw-
+             A: group::rw-                    | A: group::---
+             A: other::---                    | A: other::---
+
+File: /var/log/sssd/sssd_kcm.log
+  Size     : 84                               | 0
+
+File: /var/spool/anacron/cron.daily
+  SHA512   : 9tQ398dpK7GmNNlxr0swaSLuV1uSa9VI | 5mLukZapMTt0DPbmvq4yg32u847J/Sjf
+             YPc5LgOQcfOef/HFloj1Sw0wQwVzder5 | WvV5nrA0tdvXxpdriGf48O3sjPEvVihw
+             B0UVrYEjPALLTDoG1Ys8YQ==         | Yb8hWG8+UW7yVOzczmaKvw==
+
+
+---------------------------------------------------
+The attributes of the (uncompressed) database(s):
+---------------------------------------------------
+
+/var/lib/aide/aide.db.gz
+  MD5      : go6li68psXgBzhj3+VxlRw==
+  SHA1     : JrnTZeNr0RirraBzFn+Xs3i7iFk=
+  RMD160   : Bs6YlEJel2u+ELKfN13nwchsgA0=
+  TIGER    : BZmh6GKd0Vv8GLaPadO4kqjinwS1JwFs
+  SHA256   : oPWhKTQuva9L/k5aiGtaWPE06iRKEVxp
+             emf9qb9148o=
+  SHA512   : r4y/uq5byInQ7iORWBE//V0IGU3uUG3Y
+             0vEKGZbBD4EQMZOxwyPjWGH6I3W0S5iw
+             KiWlpt7H5SzJrVJhcGTwHg==
+
+
+End timestamp: 2021-04-03 02:45:05 +0300 (run time: 0m 44s)
+
