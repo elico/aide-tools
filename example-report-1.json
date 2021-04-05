@@ -29,303 +29,303 @@
   },
   "added-enteries": {
     "/etc/aide-check.conf": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/redwood/etc/blacklist/080-filter-blacklist_urls-db.list": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/redwood/etc/blacklist/080-filter-blacklist_urls-db.plain-urls": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/redwood/etc/categories-enabled/blacklist": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/redwood/etc/categories-enabled/blacklist/category.conf": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/redwood/etc/categories-enabled/blacklist/plain-urls-blacklist.list": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/redwood/etc/categories-enabled/blacklist/urls.list": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/COMMIT_EDITMSG": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/HEAD": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/branches": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/config": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/description": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/hooks": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/hooks/applypatch-msg.sample": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/hooks/commit-msg.sample": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/hooks/fsmonitor-watchman.sample": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/hooks/post-update.sample": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/hooks/pre-applypatch.sample": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/hooks/pre-commit.sample": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/hooks/pre-merge-commit.sample": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/hooks/pre-push.sample": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/hooks/pre-rebase.sample": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/hooks/pre-receive.sample": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/hooks/prepare-commit-msg.sample": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/hooks/update.sample": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/index": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/info": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/info/exclude": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/logs": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/logs/HEAD": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/logs/refs": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/logs/refs/heads": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/logs/refs/heads/master": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/logs/refs/remotes": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/logs/refs/remotes/origin": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/logs/refs/remotes/origin/master": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/00": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/00/3e895816a408d49a25ca6b1c6d3c5118fa09dd": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/0c": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/0c/320d4c58dfef4c9914df29db202a24076e9875": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/20": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/20/dbab2141aa357a02736b04254c080a51c3a2be": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/24": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/24/4f020194f1292293704db5a23c94a09e3ecb8f": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/57": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/57/5fe6608fa077008a7324e89694a344b6177153": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/64": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/64/7acf4247d4d937d574230e58b93631d80560ff": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/92": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/92/dc28cc1e6dd23a31779c80afa8af8a1d1cc7fd": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/a8": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/a8/a3d0555d46c626cefababa992db629dc5e64e2": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/ba": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/ba/308633eb471547e931858b9ab50cbff8308038": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/c7": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/c7/6301260c8170dc28510920a4d1e8f19dd4377f": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/d0": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/d0/4aa84fdfad70c479c46f31f911b4d455f4e15a": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/ed": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/ed/aad04cc82f35d7e7e49506d35837d5b622fcf4": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/info": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/objects/pack": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/refs": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/refs/heads": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/refs/heads/master": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/refs/remotes": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/refs/remotes/origin": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/refs/remotes/origin/master": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/.git/refs/tags": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/LICENSE": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/README.md": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/check-dom.sh": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/doms.list": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/dstdomain-matcher-threaded.rb": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/regex-matcher-server.rb": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/sni-matcher.rb": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/opt/src/squid-external-matchers/youtube-id-matcher.rb": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/root/.cache/youtube-dl": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/root/.cache/youtube-dl/youtube-sigfuncs": {
-      "value": "d++++++++++++++++: "
+      "value": "d++++++++++++++++ "
     },
     "/root/.cache/youtube-dl/youtube-sigfuncs/js_3a4ee0a9_106.json": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/root/.cache/youtube-dl/youtube-sigfuncs/js_3a4ee0a9_110.json": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/usr/local/bin/extract-yt-channel-id.rb": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     },
     "/usr/local/bin/python": {
-      "value": "l++++++++++++++++: "
+      "value": "l++++++++++++++++ "
     },
     "/usr/local/bin/youtube-dl": {
-      "value": "f++++++++++++++++: "
+      "value": "f++++++++++++++++ "
     }
   },
   "changed-enteries": {
     " /opt/redwood/bin/yandex_http_rbl_check.rb": {
-      "value": "f           C    :"
+      "value": "f           C    "
     },
     " /opt/redwood/etc/Makefile": {
-      "value": "f           C    :"
+      "value": "f           C    "
     },
     " /opt/redwood/etc/acls.conf": {
-      "value": "f           C    :"
+      "value": "f           C    "
     },
     " /opt/redwood/etc/categories-enabled/sslbypass/no-ssl-bump-server-name.list": {
-      "value": "f           C    :"
+      "value": "f           C    "
     },
     " /opt/redwood/etc/no-ssl-bump/040-reddit.server-name": {
-      "value": "f           C    :"
+      "value": "f           C    "
     },
     " /opt/redwood/etc/no-ssl-bump/080-filter-db.server-name": {
-      "value": "f           C    :"
+      "value": "f           C    "
     },
     " /opt/redwood/etc/no-ssl-bump-server-name-redwood.list": {
-      "value": "f           C    :"
+      "value": "f           C    "
     },
     " /opt/redwood/etc/no-ssl-bump-server-name.list": {
-      "value": "f           C    :"
+      "value": "f           C    "
     },
     " /opt/redwood/etc/no-ssl-bump-server-name.list.in": {
-      "value": "f           C    :"
+      "value": "f           C    "
     },
     " /var/log/btmp": {
-      "value": "f < p..    . A.  :"
+      "value": "f < p..    . A.  "
     },
     " /var/log/sssd/sssd_kcm.log": {
-      "value": "f < ...    . ..  :"
+      "value": "f < ...    . ..  "
     },
     " /var/spool/anacron/cron.daily": {
-      "value": "f           C    :"
+      "value": "f           C    "
     }
   },
   "detailed-change-info": {

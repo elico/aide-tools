@@ -125,7 +125,7 @@ while line_num < lines.size
     details = lines[line_num][0..space_index]
     file_name = lines[line_num][(space_index + 1)..-1].chomp
     added_enteries_details[file_name] = {}
-    added_enteries_details[file_name]["value"] = details
+    added_enteries_details[file_name]["value"] = details.gsub(":", "")
   when "changed-enteries"
     space_index = lines[line_num].index(": ")
     # puts lines[line_num]
@@ -133,7 +133,7 @@ while line_num < lines.size
     file_name = lines[line_num][(space_index + 1)..-1].chomp
     details = lines[line_num][0..space_index]
     changed_enteries[file_name] = {}
-    changed_enteries[file_name]["value"] = details
+    changed_enteries[file_name]["value"] = details.strip.gsub(":", "")
   when "detailed-change-info"
     if lines[line_num] =~ /^File\:\s(.*)/
       # Filename line
